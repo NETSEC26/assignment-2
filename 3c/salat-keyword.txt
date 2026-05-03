@@ -1,0 +1,128 @@
+# file contains extracted "salat" keyword from symbols.json
+
+# grep -A 2 -i "salat" symbols.json
+
+--
+        "Path": "salat",
+        "Main": {
+            "Path": "salat",
+            "Version": "(devel)",
+            "Sum": "",
+--
+        "salat/sets.go",
+        "crypto/tls/handshake_client_tls13.go",
+        "golang.org/x/sys@v0.30.0/windows/security_windows.go",
+--
+        "salat/init.go",
+        "github.com/ncruces/go-sqlite3@v0.23.0/error.go",
+        "sync/map.go",
+--
+        "salat/screenshot/screenshot.go",
+        "math/log10.go",
+        "github.com/quic-go/quic-go@v0.38.1/crypto_stream_manager.go",
+--
+        "salat/task.go",
+        "github.com/buger/jsonparser@v1.1.1/parser.go",
+        "internal/safefilepath/path_windows.go",
+--
+        "salat/main.go",
+        "regexp/syntax/parse.go",
+        "crypto/internal/edwards25519/field/fe_generic.go",
+--
+        "salat/tsc.go",
+        "github.com/quic-go/quic-go@v0.38.1/packet_packer.go",
+        "github.com/lxn/win@v0.0.0-20210218163916-a377121e959e/shell32.go",
+--
+        "salat/funcs.go",
+        "github.com/quic-go/quic-go@v0.38.1/internal/wire/retire_connection_id_frame.go",
+        "vendor/golang.org/x/net/idna/tables15.0.0.go",
+--
+            "PackageName": "salat/screenshot",
+            "FullName": "salat/screenshot.init"
+        },
+        {
+--
+            "PackageName": "salat/screenshot",
+            "FullName": "salat/screenshot.CaptureRect"
+        },
+        {
+--
+            "PackageName": "salat/screenshot",
+            "FullName": "salat/screenshot.CreateImage"
+        },
+        {
+--
+            "PackageName": "salat/screenshot",
+            "FullName": "salat/screenshot.CreateImage.func1"
+        },
+        {
+--
+            "PackageName": "salat/screenshot",
+            "FullName": "salat/screenshot.Capture"
+        },
+        {
+--
+            "PackageName": "salat/screenshot",
+            "FullName": "salat/screenshot.Capture.deferwrap6"
+        },
+        {
+--
+            "PackageName": "salat/screenshot",
+            "FullName": "salat/screenshot.Capture.deferwrap5"
+        },
+        {
+--
+            "PackageName": "salat/screenshot",
+            "FullName": "salat/screenshot.Capture.deferwrap4"
+        },
+        {
+--
+            "PackageName": "salat/screenshot",
+            "FullName": "salat/screenshot.Capture.deferwrap3"
+        },
+        {
+--
+            "PackageName": "salat/screenshot",
+            "FullName": "salat/screenshot.Capture.deferwrap2"
+        },
+        {
+--
+            "PackageName": "salat/screenshot",
+            "FullName": "salat/screenshot.Capture.deferwrap1"
+        },
+        {
+--
+            "PackageName": "salat/screenshot",
+            "FullName": "salat/screenshot.GetDisplayBounds"
+        },
+        {
+--
+            "PackageName": "salat/screenshot",
+            "FullName": "salat/screenshot.enumDisplayMonitors"
+        },
+        {
+--
+            "PackageName": "salat/screenshot",
+            "FullName": "salat/screenshot.getMonitorBoundsCallback"
+        },
+        {
+--
+            "PackageName": "salat/screenshot",
+            "FullName": "salat/screenshot.getMonitorRealSize"
+        },
+        {
+--
+            "PackageName": "salat/screenshot",
+            "FullName": "salat/screenshot.enumDisplayMonitors.func1"
+        },
+        {
+--
+            "PackageName": "salat/screenshot",
+            "FullName": "salat/screenshot.GetDisplayBounds.func1"
+        },
+        {
+--
+            "PackageName": "salat/screenshot",
+            "FullName": "salat/screenshot.Capture.func1"
+        },
+        {
